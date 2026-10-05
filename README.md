@@ -1,5 +1,6 @@
 Here is an expanded article based on the concepts provided in the document "AI Evo in 3 Steps.txt".
 
+<zema58@proton.me>
 ---
 
 # AI Evo in 3 Steps
